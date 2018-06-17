@@ -1,0 +1,15 @@
+{
+  "name": "findfirstmissingnaturalnumber1parallel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FindFirstMissingNaturalNumber1Parallel.js",
+  "dependencies": {
+    "rsvp": "^4.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
